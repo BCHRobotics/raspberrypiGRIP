@@ -2,7 +2,7 @@ import cv2
 import numpy
 import math
 from enum import Enum
-from grip import GripPipeline
+
 
 NetworkTable.set("10.23.86.2")
 
