@@ -1,5 +1,3 @@
-
-import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import edu.wpi.first.wpilibj.CameraServer;
 import edu.wpi.first.wpilibj.IterativeRobot;
