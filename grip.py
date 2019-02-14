@@ -3,7 +3,6 @@ import numpy
 import math
 from enum import Enum
 
-
 NetworkTable.set("10.23.86.2")
 
 class GripPipeline:
