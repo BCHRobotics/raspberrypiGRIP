@@ -222,5 +222,5 @@ class GripPipeline:
             output.append(contour)
             return output
         
-echo GRIP RUN
+
 
