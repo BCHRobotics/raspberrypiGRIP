@@ -1,4 +1,3 @@
-import org.opencv.core.Mat;
 import edu.wpi.first.wpilibj.CameraServer;
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.networktables.NetworkTable;
