@@ -220,7 +220,7 @@ class GripPipeline:
             if (ratio < min_ratio or ratio > max_ratio):
                 continue
             output.append(contour)
-         return output
-
+            return output
+        
 echo GRIP RUN
 
